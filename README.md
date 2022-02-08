@@ -12,3 +12,5 @@ https://samanthawolff.github.io/run-buddy/
 
 ## Contributon
 Made with ❤️ by Samantha Wolff
+
+### @2019 Run Buddy, Inc
